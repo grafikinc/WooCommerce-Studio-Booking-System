@@ -1,0 +1,58 @@
+.sb-booking-fields {
+    background: #f9f9f9;
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 5px;
+}
+
+.sb-booking-fields h3 {
+    margin-top: 0;
+    font-size: 18px;
+    color: #333;
+}
+
+.sb-field {
+    margin-bottom: 15px;
+}
+
+.sb-field label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: 600;
+    color: #555;
+}
+
+.sb-field input[type="date"],
+.sb-field select {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    font-size: 14px;
+}
+
+.sb-deposit-notice {
+    background: #fff3cd;
+    border: 1px solid #ffc107;
+    padding: 10px;
+    border-radius: 3px;
+    margin-top: 15px;
+}
+
+.sb-package-suggestions {
+    background: #e7f3ff;
+    border: 1px solid #2196F3;
+    padding: 15px;
+    margin: 20px 0;
+    border-radius: 5px;
+}
+
+.sb-package-discount {
+    background: #4CAF50;
+    color: white;
+    padding: 3px 8px;
+    border-radius: 3px;
+    font-size: 12px;
+    font-weight: bold;
+}
